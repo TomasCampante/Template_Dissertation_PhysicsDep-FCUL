@@ -1,5 +1,5 @@
-# Template_Dissertation_PhysicsDep-FCUL
-Example of a template for the Master's Dissertation in the Department of Physics of the Faculty of Sciences of the University of Lisbon.
+# Template of a Master's Dissertation (2026) in DF-FCUL
+Example of a template for the Master's Dissertation (2026) in the Department of Physics of the Faculty of Sciences of the University of Lisbon.
 
 Everything you see here is a mere example, talk with your supervisors and the faculty's secretary.
 
